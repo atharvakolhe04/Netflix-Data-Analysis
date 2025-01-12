@@ -65,4 +65,4 @@ Feel free to contribute to this project by:
 - Python data analysis community for libraries and tools.
 
 ---
-This project serves as a basic EDA exercise and is suitable for beginners exploring data analysis and visualization techniques. Connect with me on [LinkedIn](www.linkedin.com/in/atharva-kolhe-99365930a) for more projects and insights!
+This project serves as a basic EDA exercise and is suitable for beginners exploring data analysis and visualization techniques. 
