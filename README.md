@@ -44,24 +44,6 @@ The dataset used in this analysis is publicly available on Kaggle: [Netflix Titl
 6. **Cast and Director Analysis**:
    - Most frequent cast members and leading directors.
 
-## How to Use This Repository
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/netflix-eda.git
-   ```
-
-2. Navigate to the project folder:
-   ```bash
-   cd netflix-eda
-   ```
-
-3. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-
-4. Run the code cells in sequence to reproduce the analysis.
-
 ## Visualizations
 The project includes various visualizations such as:
 - Pie charts for content type distribution.
@@ -83,4 +65,4 @@ Feel free to contribute to this project by:
 - Python data analysis community for libraries and tools.
 
 ---
-This project serves as a basic EDA exercise and is suitable for beginners exploring data analysis and visualization techniques. Connect with me on [LinkedIn](https://linkedin.com/in/<your-linkedin-profile>) for more projects and insights!
+This project serves as a basic EDA exercise and is suitable for beginners exploring data analysis and visualization techniques. Connect with me on [LinkedIn](www.linkedin.com/in/atharva-kolhe-99365930a) for more projects and insights!
